@@ -1,7 +1,7 @@
 /*feel free to contact
  * sreeramaj53@gmail.com
  * www.youtube.com/ZenoModiff
- * last updated - time 07:43 AM - date 27 may 2021
+ * last updated - time 07:43 PM - date 27 may 2021
  Github Link :-- https://github.com/Zenomodiff/RFM95-LoRa-Module-Interfacing
  */
 
